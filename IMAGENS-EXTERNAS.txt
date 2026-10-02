@@ -1,0 +1,15 @@
+IMAGENS QUE CONTINUAM COM O ENDERECO ORIGINAL
+
+Os logos de Puravida, Nestle e Galderma e cinco retratos de creators nao vieram no ZIP original.
+Nao foi possivel baixar esses arquivos neste ambiente. Seus enderecos foram preservados no HTML.
+Essas imagens dependem de internet e da disponibilidade dos respectivos sites.
+O HTML ja possui alternativa visual de nome/iniciais caso uma delas nao carregue.
+
+https://chatadegalocha.com/wp-content/uploads/2021/06/sobre2-1130x533.png
+https://diadebeaute.com/wp-content/uploads/2023/01/maquiagem-minimalista-3.jpg
+https://istoe.com.br/wp-content/uploads/2023/10/carol-borba.jpeg
+https://loja.mimostyle.com.br/upload/categoria-secundaria/layout/3/img-chef.webp
+https://magazine.medlineplus.gov/images/uploads/main_images/camilla-coelho-epilepsy.jpg
+https://www.galderma.com/sites/default/files/Galderma_logo_Thumbnal_website.png
+https://www.nestle.com.br/sites/g/files/pydnoa436/files/styles/brand_image/public/brand-nestle.jpg.webp?itok=V9xSWFFH
+https://www.puravida.com.br/blog/images/Logo.svg
